@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "507bb8eb-1526-4f67-b7d7-93acfcaa2861",
+		"name": "BullPgia",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39965350",
+		"_collection_link": "https://jjj555-8534.postman.co/workspace/ee161f99-ad62-446d-8f07-1044a0170ce1/collection/39965350-507bb8eb-1526-4f67-b7d7-93acfcaa2861?action=share&source=collection_link&creator=39965350"
+	},
+	"item": [
+		{
+			"name": "1 . add",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "2. update",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "3. delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "4. start",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "5. gusses",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "6. status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "7. end",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
